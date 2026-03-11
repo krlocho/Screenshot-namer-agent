@@ -1,0 +1,298 @@
+Traceback (most recent call last):
+  File "/Users/carlocho/Documents/Agente-organizador/main.py", line 20, in <module>
+    from organizer.watcher import ScreenshotWatcher
+  File "/Users/carlocho/Documents/Agente-organizador/organizer/watcher.py", line 9, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+2026-01-19 18:33:09 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 18:33:09 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 18:33:09 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 18:33:09 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 18:33:09 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 18:33:09 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 18:33:43 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 18:33:43 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 18:33:43 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 18:36:02 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 18:36:02 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 18:36:02 [INFO] Monitoreo detenido
+2026-01-19 18:36:02 [INFO] Monitoreo detenido
+2026-01-19 18:36:02 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 18:36:02 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 18:36:02 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 18:36:02 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 18:36:02 [INFO] 📂 Procesando 7 capturas existentes...
+2026-01-19 18:36:02 [INFO] 📂 Procesando 7 capturas existentes...
+2026-01-19 18:36:02 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-10 a las 15.27.22.png
+2026-01-19 18:36:02 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-10 a las 15.27.22.png
+2026-01-19 18:36:02 [INFO] Analizando imagen: Captura de pantalla 2025-12-10 a las 15.27.22.png
+2026-01-19 18:36:02 [INFO] Analizando imagen: Captura de pantalla 2025-12-10 a las 15.27.22.png
+2026-01-19 18:38:02 [ERROR] Timeout al analizar la imagen
+2026-01-19 18:38:02 [ERROR] Timeout al analizar la imagen
+2026-01-19 18:38:03 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-10 a las 15.27.22.png: Timeout analizando la imagen
+2026-01-19 18:38:03 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-10 a las 15.27.22.png: Timeout analizando la imagen
+2026-01-19 18:38:03 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 18:38:03 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 18:38:03 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 18:38:03 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 18:39:08 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 18:39:08 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 18:39:08 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 18:39:08 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 18:39:08 [INFO] 📂 Procesando 7 capturas existentes...
+2026-01-19 18:39:08 [INFO] 📂 Procesando 7 capturas existentes...
+2026-01-19 18:39:08 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-10 a las 15.27.22.png
+2026-01-19 18:39:08 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-10 a las 15.27.22.png
+2026-01-19 18:39:08 [INFO] Analizando imagen: Captura de pantalla 2025-12-10 a las 15.27.22.png
+2026-01-19 18:39:08 [INFO] Analizando imagen: Captura de pantalla 2025-12-10 a las 15.27.22.png
+2026-01-19 18:41:07 [INFO] Análisis completado: tipo=OTRO
+2026-01-19 18:41:07 [INFO] Análisis completado: tipo=OTRO
+2026-01-19 18:41:07 [INFO] Renombrado: Captura de pantalla 2025-12-10 a las 15.27.22.png -> [OTRO] captura - 2026-01-19.png
+2026-01-19 18:41:07 [INFO] Renombrado: Captura de pantalla 2025-12-10 a las 15.27.22.png -> [OTRO] captura - 2026-01-19.png
+2026-01-19 18:41:07 [INFO] ✅ Completado: /Users/carlocho/Desktop/[OTRO] captura - 2026-01-19.png
+2026-01-19 18:41:07 [INFO] ✅ Completado: /Users/carlocho/Desktop/[OTRO] captura - 2026-01-19.png
+2026-01-19 18:41:07 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 18:41:07 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 18:41:07 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 18:41:07 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 18:44:52 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 18:44:53 [INFO] Monitoreo detenido
+2026-01-19 18:46:02 [INFO] Análisis completado: tipo=FACTURA
+2026-01-19 18:46:02 [INFO] Análisis completado: tipo=FACTURA
+2026-01-19 18:46:02 [ERROR] Error renombrando archivo: [Errno 2] No such file or directory: '/Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png' -> '/Users/carlocho/Desktop/[FACTURA] nombre - EUR/USD/$XX.XX - YYYY-MM-DD.png'
+2026-01-19 18:46:02 [ERROR] Error renombrando archivo: [Errno 2] No such file or directory: '/Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png' -> '/Users/carlocho/Desktop/[FACTURA] nombre - EUR/USD/$XX.XX - YYYY-MM-DD.png'
+2026-01-19 18:46:02 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png: [Errno 2] No such file or directory: '/Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png' -> '/Users/carlocho/Desktop/[FACTURA] nombre - EUR/USD/$XX.XX - YYYY-MM-DD.png'
+2026-01-19 18:46:02 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png: [Errno 2] No such file or directory: '/Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png' -> '/Users/carlocho/Desktop/[FACTURA] nombre - EUR/USD/$XX.XX - YYYY-MM-DD.png'
+2026-01-19 18:46:02 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-05 a las 9.23.46.png
+2026-01-19 18:46:02 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-05 a las 9.23.46.png
+2026-01-19 18:46:02 [INFO] Analizando imagen: Captura de pantalla 2025-12-05 a las 9.23.46.png
+2026-01-19 18:46:02 [INFO] Analizando imagen: Captura de pantalla 2025-12-05 a las 9.23.46.png
+2026-01-19 18:47:07 [INFO] Análisis completado: tipo=CODIGO
+2026-01-19 18:47:07 [INFO] Análisis completado: tipo=CODIGO
+2026-01-19 18:47:07 [INFO] Renombrado: Captura de pantalla 2025-12-05 a las 9.23.46.png -> [CODIGO] Python - fragmento.png
+2026-01-19 18:47:07 [INFO] Renombrado: Captura de pantalla 2025-12-05 a las 9.23.46.png -> [CODIGO] Python - fragmento.png
+2026-01-19 18:47:07 [INFO] ✅ Completado: /Users/carlocho/Desktop/[CODIGO] Python - fragmento.png
+2026-01-19 18:47:07 [INFO] ✅ Completado: /Users/carlocho/Desktop/[CODIGO] Python - fragmento.png
+2026-01-19 18:47:07 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-05 a las 9.48.09.png
+2026-01-19 18:47:07 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-05 a las 9.48.09.png
+2026-01-19 18:47:07 [INFO] Analizando imagen: Captura de pantalla 2025-12-05 a las 9.48.09.png
+2026-01-19 18:47:07 [INFO] Analizando imagen: Captura de pantalla 2025-12-05 a las 9.48.09.png
+2026-01-19 18:48:12 [INFO] Análisis completado: tipo=DOCUMENTO
+2026-01-19 18:48:12 [INFO] Análisis completado: tipo=DOCUMENTO
+2026-01-19 18:48:12 [INFO] Renombrado: Captura de pantalla 2025-12-05 a las 9.48.09.png -> [DOC] documento - 2026-01-19.png
+2026-01-19 18:48:12 [INFO] Renombrado: Captura de pantalla 2025-12-05 a las 9.48.09.png -> [DOC] documento - 2026-01-19.png
+2026-01-19 18:48:12 [INFO] ✅ Completado: /Users/carlocho/Desktop/[DOC] documento - 2026-01-19.png
+2026-01-19 18:48:12 [INFO] ✅ Completado: /Users/carlocho/Desktop/[DOC] documento - 2026-01-19.png
+2026-01-19 18:48:12 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.15.35.png
+2026-01-19 18:48:12 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.15.35.png
+2026-01-19 18:48:12 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 18.15.35.png
+2026-01-19 18:48:12 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 18.15.35.png
+2026-01-19 18:52:10 [INFO] Análisis completado: tipo=CODIGO
+2026-01-19 18:52:10 [INFO] Análisis completado: tipo=CODIGO
+2026-01-19 18:52:12 [INFO] Renombrado: Captura de pantalla 2025-12-01 a las 18.15.35.png -> [CODIGO] Python - fragmento (1).png
+2026-01-19 18:52:12 [INFO] Renombrado: Captura de pantalla 2025-12-01 a las 18.15.35.png -> [CODIGO] Python - fragmento (1).png
+2026-01-19 18:52:12 [INFO] ✅ Completado: /Users/carlocho/Desktop/[CODIGO] Python - fragmento (1).png
+2026-01-19 18:52:12 [INFO] ✅ Completado: /Users/carlocho/Desktop/[CODIGO] Python - fragmento (1).png
+2026-01-19 18:52:12 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 18:52:12 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 18:52:12 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 18:52:12 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 18:57:12 [ERROR] Timeout al analizar la imagen
+2026-01-19 18:57:12 [ERROR] Timeout al analizar la imagen
+2026-01-19 18:57:12 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png: Timeout analizando la imagen
+2026-01-19 18:57:12 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png: Timeout analizando la imagen
+2026-01-19 18:57:12 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-05 a las 11.06.07.png
+2026-01-19 18:57:12 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-05 a las 11.06.07.png
+2026-01-19 18:57:12 [INFO] Analizando imagen: Captura de pantalla 2025-12-05 a las 11.06.07.png
+2026-01-19 18:57:12 [INFO] Analizando imagen: Captura de pantalla 2025-12-05 a las 11.06.07.png
+2026-01-19 19:02:13 [ERROR] Timeout al analizar la imagen
+2026-01-19 19:02:13 [ERROR] Timeout al analizar la imagen
+2026-01-19 19:02:13 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-05 a las 11.06.07.png: Timeout analizando la imagen
+2026-01-19 19:02:13 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-05 a las 11.06.07.png: Timeout analizando la imagen
+2026-01-19 19:02:13 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 19:02:13 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 19:03:54 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 19:03:54 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 19:03:54 [INFO] Monitoreo detenido
+2026-01-19 19:03:54 [INFO] Monitoreo detenido
+2026-01-19 19:03:56 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 19:03:56 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 19:03:56 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 19:03:56 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 19:03:56 [INFO] 📂 Procesando 3 capturas existentes...
+2026-01-19 19:03:56 [INFO] 📂 Procesando 3 capturas existentes...
+2026-01-19 19:03:56 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 19:03:56 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 19:03:56 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 19:03:56 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 19:05:08 [INFO] Análisis completado: tipo=FACTURA
+2026-01-19 19:05:08 [INFO] Análisis completado: tipo=FACTURA
+2026-01-19 19:05:08 [ERROR] Error renombrando archivo: [Errno 2] No such file or directory: '/Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png' -> '/Users/carlocho/Desktop/[FACTURA] nombre - EUR/USD/$XX.XX - YYYY-MM-DD.png'
+2026-01-19 19:05:08 [ERROR] Error renombrando archivo: [Errno 2] No such file or directory: '/Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png' -> '/Users/carlocho/Desktop/[FACTURA] nombre - EUR/USD/$XX.XX - YYYY-MM-DD.png'
+2026-01-19 19:05:08 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png: [Errno 2] No such file or directory: '/Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png' -> '/Users/carlocho/Desktop/[FACTURA] nombre - EUR/USD/$XX.XX - YYYY-MM-DD.png'
+2026-01-19 19:05:08 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png: [Errno 2] No such file or directory: '/Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png' -> '/Users/carlocho/Desktop/[FACTURA] nombre - EUR/USD/$XX.XX - YYYY-MM-DD.png'
+2026-01-19 19:05:08 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 19:05:08 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 19:05:08 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 19:05:08 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 19:06:10 [INFO] Análisis completado: tipo=FACTURA
+2026-01-19 19:06:10 [INFO] Análisis completado: tipo=FACTURA
+2026-01-19 19:06:10 [ERROR] Error renombrando archivo: [Errno 2] No such file or directory: '/Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png' -> '/Users/carlocho/Desktop/[FACTURA] nombre - EUR/USD/$XX.XX - YYYY-MM-DD.png'
+2026-01-19 19:06:10 [ERROR] Error renombrando archivo: [Errno 2] No such file or directory: '/Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png' -> '/Users/carlocho/Desktop/[FACTURA] nombre - EUR/USD/$XX.XX - YYYY-MM-DD.png'
+2026-01-19 19:06:10 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png: [Errno 2] No such file or directory: '/Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png' -> '/Users/carlocho/Desktop/[FACTURA] nombre - EUR/USD/$XX.XX - YYYY-MM-DD.png'
+2026-01-19 19:06:10 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png: [Errno 2] No such file or directory: '/Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png' -> '/Users/carlocho/Desktop/[FACTURA] nombre - EUR/USD/$XX.XX - YYYY-MM-DD.png'
+2026-01-19 19:06:10 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-05 a las 11.06.07.png
+2026-01-19 19:06:10 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-05 a las 11.06.07.png
+2026-01-19 19:06:10 [INFO] Analizando imagen: Captura de pantalla 2025-12-05 a las 11.06.07.png
+2026-01-19 19:06:10 [INFO] Analizando imagen: Captura de pantalla 2025-12-05 a las 11.06.07.png
+2026-01-19 19:08:01 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 19:08:01 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 19:08:01 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 19:08:01 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 19:08:01 [INFO] 📂 Procesando 3 capturas existentes...
+2026-01-19 19:08:01 [INFO] 📂 Procesando 3 capturas existentes...
+2026-01-19 19:08:01 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 19:08:01 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 19:08:01 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 19:08:01 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 19:13:01 [ERROR] Timeout al analizar la imagen
+2026-01-19 19:13:01 [ERROR] Timeout al analizar la imagen
+2026-01-19 19:13:01 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png: Timeout analizando la imagen
+2026-01-19 19:13:01 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png: Timeout analizando la imagen
+2026-01-19 19:13:01 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 19:13:01 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 19:13:01 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 19:13:01 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 19:17:18 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 19:17:18 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 19:17:18 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 19:17:18 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 19:17:18 [INFO] 📂 Procesando 3 capturas existentes...
+2026-01-19 19:17:18 [INFO] 📂 Procesando 3 capturas existentes...
+2026-01-19 19:17:18 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 19:17:18 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 19:17:18 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 19:17:18 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 17.13.25.png
+2026-01-19 19:17:35 [INFO] Análisis completado: tipo=FACTURA
+2026-01-19 19:17:35 [INFO] Análisis completado: tipo=FACTURA
+2026-01-19 19:17:35 [INFO] Renombrado: Captura de pantalla 2025-12-01 a las 17.13.25.png -> [FACTURA] factura - 2026-01-19.png
+2026-01-19 19:17:35 [INFO] Renombrado: Captura de pantalla 2025-12-01 a las 17.13.25.png -> [FACTURA] factura - 2026-01-19.png
+2026-01-19 19:17:35 [INFO] ✅ Completado: /Users/carlocho/Desktop/[FACTURA] factura - 2026-01-19.png
+2026-01-19 19:17:35 [INFO] ✅ Completado: /Users/carlocho/Desktop/[FACTURA] factura - 2026-01-19.png
+2026-01-19 19:17:35 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 19:17:35 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 19:17:35 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 19:17:35 [INFO] Analizando imagen: Captura de pantalla 2025-12-01 a las 18.28.14.png
+2026-01-19 19:17:40 [WARNING] No se encontró JSON válido en la respuesta: The image shows a long line of code written in a text editor or IDE (Integrated Development Environm
+2026-01-19 19:17:40 [WARNING] No se encontró JSON válido en la respuesta: The image shows a long line of code written in a text editor or IDE (Integrated Development Environm
+2026-01-19 19:17:40 [INFO] Renombrado: Captura de pantalla 2025-12-01 a las 18.28.14.png -> [OTRO] captura_analizada - 2026-01-19.png
+2026-01-19 19:17:40 [INFO] Renombrado: Captura de pantalla 2025-12-01 a las 18.28.14.png -> [OTRO] captura_analizada - 2026-01-19.png
+2026-01-19 19:17:40 [INFO] ✅ Completado: /Users/carlocho/Desktop/[OTRO] captura_analizada - 2026-01-19.png
+2026-01-19 19:17:40 [INFO] ✅ Completado: /Users/carlocho/Desktop/[OTRO] captura_analizada - 2026-01-19.png
+2026-01-19 19:17:40 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-05 a las 11.06.07.png
+2026-01-19 19:17:40 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2025-12-05 a las 11.06.07.png
+2026-01-19 19:17:40 [INFO] Analizando imagen: Captura de pantalla 2025-12-05 a las 11.06.07.png
+2026-01-19 19:17:40 [INFO] Analizando imagen: Captura de pantalla 2025-12-05 a las 11.06.07.png
+2026-01-19 19:17:43 [WARNING] No se encontró JSON válido en la respuesta: 
+2026-01-19 19:17:43 [WARNING] No se encontró JSON válido en la respuesta: 
+2026-01-19 19:17:43 [INFO] Renombrado: Captura de pantalla 2025-12-05 a las 11.06.07.png -> [OTRO] captura_analizada - 2026-01-19 (1).png
+2026-01-19 19:17:43 [INFO] Renombrado: Captura de pantalla 2025-12-05 a las 11.06.07.png -> [OTRO] captura_analizada - 2026-01-19 (1).png
+2026-01-19 19:17:43 [INFO] ✅ Completado: /Users/carlocho/Desktop/[OTRO] captura_analizada - 2026-01-19 (1).png
+2026-01-19 19:17:43 [INFO] ✅ Completado: /Users/carlocho/Desktop/[OTRO] captura_analizada - 2026-01-19 (1).png
+2026-01-19 19:17:43 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 19:17:43 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 20:24:22 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 20:24:22 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 20:24:22 [INFO] Monitoreo detenido
+2026-01-19 20:24:22 [INFO] Monitoreo detenido
+2026-01-19 20:24:23 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 20:24:23 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 20:24:23 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 20:24:23 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 20:24:23 [INFO] 📂 No hay capturas existentes para procesar
+2026-01-19 20:24:23 [INFO] 📂 No hay capturas existentes para procesar
+2026-01-19 20:24:23 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 20:24:23 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 20:29:13 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 20:29:13 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 20:29:13 [INFO] Monitoreo detenido
+2026-01-19 20:29:13 [INFO] Monitoreo detenido
+2026-01-19 20:29:17 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 20:29:17 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 20:29:17 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 20:29:17 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 20:29:17 [INFO] 📂 Procesando 1 capturas existentes...
+2026-01-19 20:29:17 [INFO] 📂 Procesando 1 capturas existentes...
+2026-01-19 20:29:17 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2026-01-19 a las 20.28.37.png
+2026-01-19 20:29:17 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2026-01-19 a las 20.28.37.png
+2026-01-19 20:29:17 [INFO] Analizando imagen: Captura de pantalla 2026-01-19 a las 20.28.37.png
+2026-01-19 20:29:17 [INFO] Analizando imagen: Captura de pantalla 2026-01-19 a las 20.28.37.png
+2026-01-19 20:34:17 [ERROR] Timeout al analizar la imagen
+2026-01-19 20:34:17 [ERROR] Timeout al analizar la imagen
+2026-01-19 20:34:17 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2026-01-19 a las 20.28.37.png: Timeout analizando la imagen
+2026-01-19 20:34:17 [ERROR] ❌ Error procesando /Users/carlocho/Desktop/Captura de pantalla 2026-01-19 a las 20.28.37.png: Timeout analizando la imagen
+2026-01-19 20:34:17 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 20:34:17 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 21:00:43 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 21:00:43 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 21:00:44 [INFO] Monitoreo detenido
+2026-01-19 21:00:44 [INFO] Monitoreo detenido
+2026-01-19 21:00:45 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 21:00:45 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 21:00:45 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 21:00:45 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 21:00:45 [INFO] 📂 Procesando 1 capturas existentes...
+2026-01-19 21:00:45 [INFO] 📂 Procesando 1 capturas existentes...
+2026-01-19 21:00:45 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2026-01-19 a las 20.28.37.png
+2026-01-19 21:00:45 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2026-01-19 a las 20.28.37.png
+2026-01-19 21:00:45 [INFO] Analizando imagen: Captura de pantalla 2026-01-19 a las 20.28.37.png
+2026-01-19 21:00:45 [INFO] Analizando imagen: Captura de pantalla 2026-01-19 a las 20.28.37.png
+2026-01-19 21:01:16 [INFO] Análisis completado: tipo=DOCUMENTO
+2026-01-19 21:01:16 [INFO] Análisis completado: tipo=DOCUMENTO
+2026-01-19 21:01:16 [INFO] Renombrado: Captura de pantalla 2026-01-19 a las 20.28.37.png -> [DOC] Error_procesando_documento-users-carloch - 2026-01-19.png
+2026-01-19 21:01:16 [INFO] Renombrado: Captura de pantalla 2026-01-19 a las 20.28.37.png -> [DOC] Error_procesando_documento-users-carloch - 2026-01-19.png
+2026-01-19 21:01:16 [INFO] ✅ Completado: /Users/carlocho/Desktop/[DOC] Error_procesando_documento-users-carloch - 2026-01-19.png
+2026-01-19 21:01:16 [INFO] ✅ Completado: /Users/carlocho/Desktop/[DOC] Error_procesando_documento-users-carloch - 2026-01-19.png
+2026-01-19 21:01:16 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 21:01:16 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 21:12:57 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 21:12:57 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 21:12:57 [INFO] Monitoreo detenido
+2026-01-19 21:12:57 [INFO] Monitoreo detenido
+2026-01-19 21:12:59 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 21:12:59 [INFO] 🚀 Iniciando Agente Organizador de Capturas
+2026-01-19 21:12:59 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 21:12:59 [INFO]    Presiona Ctrl+C para detener
+2026-01-19 21:12:59 [INFO] 📂 Procesando 1 capturas existentes...
+2026-01-19 21:12:59 [INFO] 📂 Procesando 1 capturas existentes...
+2026-01-19 21:12:59 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2026-01-19 a las 21.11.20.png
+2026-01-19 21:12:59 [INFO] Procesando: /Users/carlocho/Desktop/Captura de pantalla 2026-01-19 a las 21.11.20.png
+2026-01-19 21:12:59 [INFO] Analizando imagen: Captura de pantalla 2026-01-19 a las 21.11.20.png
+2026-01-19 21:12:59 [INFO] Analizando imagen: Captura de pantalla 2026-01-19 a las 21.11.20.png
+2026-01-19 21:13:25 [INFO] Análisis completado: tipo=FACTURA
+2026-01-19 21:13:25 [INFO] Análisis completado: tipo=FACTURA
+2026-01-19 21:13:25 [INFO] Renombrado: Captura de pantalla 2026-01-19 a las 21.11.20.png -> [FACTURA] SAPO - $102.54 - 2023-03-31.png
+2026-01-19 21:13:25 [INFO] Renombrado: Captura de pantalla 2026-01-19 a las 21.11.20.png -> [FACTURA] SAPO - $102.54 - 2023-03-31.png
+2026-01-19 21:13:25 [INFO] ✅ Completado: /Users/carlocho/Desktop/[FACTURA] SAPO - $102.54 - 2023-03-31.png
+2026-01-19 21:13:25 [INFO] ✅ Completado: /Users/carlocho/Desktop/[FACTURA] SAPO - $102.54 - 2023-03-31.png
+2026-01-19 21:13:25 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 21:13:25 [INFO] Monitoreando: /Users/carlocho/Desktop
+2026-01-19 23:07:57 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 23:07:57 [INFO] 
+🛑 Deteniendo agente...
+2026-01-19 23:07:57 [INFO] Monitoreo detenido
+2026-01-19 23:07:57 [INFO] Monitoreo detenido
